@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
+Hello, i am Lisa Katusiime a  junior web developer with a Bachelor of Science in Software Engineering degree. 
+I'm passionate about front-end development and creating modern, responsive, and accessible web interfaces.
+  
+## What I work with
+I work with HTML, CSS, JavaScript, React, and WordPress to transform ideas and designs into intuitive digital experiences.
 
-<!--
-**lisakatusiime/lisakatusiime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recent projects
+Project name: Portfolio-project
+- This project is a responsive portfolio website designed to present who I am and what I do.
+- It highlights my experience, technical skills, education, and provides an easy way to get in touch.
+  
+Code Link: https://github.com/lisakatusiime/Portfolio-project.git
 
-Here are some ideas to get you started:
+## Get in touch
+LinkedIn : www.linkedin.com/in/lisa-katusiime
+Email : lisa1katusiime@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
