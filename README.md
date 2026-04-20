@@ -1,5 +1,5 @@
 ## About Me
-Hello, i am Lisa Katusiime a frontend engineer with a Bachelor of Science in Software Engineering degree. 
+Hello, i am Lisa Katusiime a frontend developer with a Bachelor of Science in Software Engineering degree. 
 I'm passionate about front-end development and creating modern, responsive, and accessible web interfaces.
   
 ## What I work with
